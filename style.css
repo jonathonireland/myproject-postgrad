@@ -1,0 +1,10 @@
+HTML,p,span,H1,h2,h3,h4,h5{
+  margin: 0 auto;
+}
+ul>li,ol>li{
+  display: block;
+  margin: 0 auto;
+}
+div{
+  display: block;
+}
